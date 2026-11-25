@@ -1,0 +1,9 @@
+﻿{
+  "version": "3.1.0",
+  "url": "https://github.com/Pilotcz01/hdd-smart-test-updates/releases/download/v3.1.0/HDDSmartTest-Setup-3.1.0.exe",
+  "download_url": "https://github.com/Pilotcz01/hdd-smart-test-updates/releases/download/v3.1.0/HDDSmartTest-Setup-3.1.0.exe",
+  "release_url": "https://github.com/Pilotcz01/hdd-smart-test-updates/releases/tag/v3.1.0",
+  "sha256": "f0a4676583e1d77b113adbd7a4ae4932d343a702cfb302619af2441c212acb12",
+  "sha256_url": "https://github.com/Pilotcz01/hdd-smart-test-updates/releases/download/v3.1.0/HDDSmartTest-Setup-3.1.0.exe.sha256",
+  "notes": "v3.1.0: 25 jazyků (EU + en-US) s grafickými vlaječkami a auto-detekcí OS, 1:1 klonování systémového disku přes Windows VSS, správa oddílů přes oficiální Windows Disk Management API (WMI/VDS/DeviceIoControl), diagnostický log, PayPal podpora a autorská ochrana All Rights Reserved."
+}
