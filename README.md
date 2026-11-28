@@ -7,7 +7,8 @@ This public repository hosts official binary releases and the update manifest (`
 ## Latest Release: v3.1.0
 
 - **Windows Installer (64-bit):** [`HDDSmartTest-Setup-3.1.0.exe`](https://github.com/Pilotcz01/hdd-smart-test-updates/releases/download/v3.1.0/HDDSmartTest-Setup-3.1.0.exe)
-- **SHA-256:** `f0a4676583e1d77b113adbd7a4ae4932d343a702cfb302619af2441c212acb12`
+- **Windows SHA-256:** `f0a4676583e1d77b113adbd7a4ae4932d343a702cfb302619af2441c212acb12`
+- **Linux Release Page / Packages:** [`v3.1.0 Release`](https://github.com/Pilotcz01/hdd-smart-test-updates/releases/tag/v3.1.0)
 - **Update Manifest:** `https://raw.githubusercontent.com/Pilotcz01/hdd-smart-test-updates/main/version.json`
 
 ## Copyright & License
